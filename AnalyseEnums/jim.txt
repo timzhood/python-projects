@@ -1,0 +1,15 @@
+TYPE=YourNames
+Jim
+Kevin
+Bob
+Mike
+TYPE=MyNames
+Tim
+Jim
+Jimmy
+James
+Mike
+TYPE=HerNames
+Kevin
+Zak
+Bob
